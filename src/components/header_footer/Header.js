@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 
 import AppBar from '@material-ui/core/AppBar';
-import ToolBar from  '@material-ui/core/Toolbar';
+import ToolBar from  '@material-ui/core/ToolBar/Toolbar';
 import MenuIcon from '@material-ui/icons/Menu';
 import IconButton from '@material-ui/core/IconButton';
 
